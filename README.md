@@ -15,3 +15,4 @@ https://docs.google.com/spreadsheets/d/1iMe-ez1YJAu6CcCn3NE4dKwtZUqdC_ChhRJbe0qf
 ### 楽々ERDレッスン
 
 - 01_手順としての正規化
+- 02_データベース設計の基礎知識
