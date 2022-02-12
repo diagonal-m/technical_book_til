@@ -10,3 +10,8 @@ https://docs.google.com/spreadsheets/d/1iMe-ez1YJAu6CcCn3NE4dKwtZUqdC_ChhRJbe0qf
 ### Linux標準教科書
 
 - 01_Linuxとは
+## DB
+
+### 楽々ERDレッスン
+
+- 01_手順としての正規化
