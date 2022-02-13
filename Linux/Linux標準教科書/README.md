@@ -3,7 +3,7 @@
 ## DockerでCentOSをダウンロード
 
 ```bash
-$ docker pull centos:latest
+$ docker pull centos:7
 ```
 
 
@@ -11,7 +11,7 @@ $ docker pull centos:latest
 ## コンテナを起動
 
 ```bash
-$ docker run -d -it centos:latest /bin/bash
+$ docker run -d -it centos:7 /bin/bash
 $ docker exec -it [CONTAINER ID] bash
 ```
 
